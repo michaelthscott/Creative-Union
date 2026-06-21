@@ -1,2 +1,2 @@
 # Creative Union
-Janet wonders what to do with the papers her brother Michael left before he disappeared.
+The story of Michael, Don Miguel, Wolfie and Janet. Written in the mid-80s on the portable Canon typewriter.
