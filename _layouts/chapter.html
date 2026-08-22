@@ -1,0 +1,14 @@
+---
+layout: page
+---
+<article class="chapter">
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="chapter-image">
+  {% endif %}
+  <div class="chapter-content">
+    {{ content }}
+  </div>
+  
+  {% include series-list.html collection=page.series %}
+  {% include prev-next.html collection=page.collection %}
+</article>

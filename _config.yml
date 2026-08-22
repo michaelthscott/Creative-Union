@@ -1,0 +1,38 @@
+title: "Creative Union"
+description: Janet publishes her brother Michael papers.
+author: Michael T. H. Scott
+theme: minima
+url: "https://creative-union.michaelthscott.org"
+baseurl: ""
+exclude:
+  - README.md
+collections:
+  Chapters:
+    output: true
+  Barcelona:
+    output: true
+  Bibliography:
+    output: true
+  Creative-Union:
+    output: true
+  Don-Miguel:
+    output: true
+  France:
+    output: true
+  Holland-Park:
+    output: true
+  Ireland:
+    output: true
+  Janet:
+    output: true
+  London:
+    output: true
+  Michael:
+    output: true
+  Paddington:
+    output: true
+  Wolfie:
+    output: true
+  Zurichberg:
+    output: true
+    
