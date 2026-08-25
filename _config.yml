@@ -2,6 +2,7 @@ title: "Creative Union"
 description: Janet publishes her brother Michael papers.
 author: Michael T. H. Scott
 theme: minima
+baseurl: "/Creative-Union"
 exclude:
   - README.md
 collections:
