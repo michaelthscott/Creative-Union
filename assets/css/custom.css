@@ -101,3 +101,10 @@ header .wrapper nav a:first-child {
 .indent {
   text-indent: 2em;
 }
+.underline {
+  text-decoration: underline;
+}
+.hang {
+  padding-left: 2em;
+  text-indent: -2em;
+}
