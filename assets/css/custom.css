@@ -109,7 +109,7 @@ header .wrapper nav a:first-child {
   text-indent: -2em;
 }
 .centered-block {
-  max-width: 20em;
+  width: fit-content;
   margin: 0 auto;
   text-align: left;
 }
