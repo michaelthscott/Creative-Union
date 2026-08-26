@@ -98,3 +98,6 @@ header .wrapper nav a:first-child {
 .right {
   text-align: right;
 }
+.indent {
+  text-indent: 2em;
+}
