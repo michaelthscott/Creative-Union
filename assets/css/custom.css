@@ -92,3 +92,9 @@ header .wrapper nav a:first-child {
   margin: 0 0 0.75em 0;
   opacity: 0.7;
 }
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
