@@ -98,9 +98,6 @@ header .wrapper nav a:first-child {
 .right {
   text-align: right;
 }
-.left {
-  text-align: left;
-}
 .indent {
   text-indent: 2em;
 }
@@ -110,4 +107,9 @@ header .wrapper nav a:first-child {
 .hang {
   padding-left: 2em;
   text-indent: -2em;
+}
+.centered-block {
+  max-width: 40em;
+  margin: 0 auto;
+  text-align: left;
 }
