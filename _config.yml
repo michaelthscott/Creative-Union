@@ -5,6 +5,7 @@ theme: minima
 baseurl: "/Creative-Union"
 exclude:
   - README.md
+  - Creative-Union.csv
 collections:
   Chapters:
     output: true
