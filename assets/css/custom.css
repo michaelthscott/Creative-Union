@@ -113,3 +113,8 @@ header .wrapper nav a:first-child {
   margin: 0 auto;
   text-align: left;
 }
+.align-grid {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  column-gap: 2em;
+}
